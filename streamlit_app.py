@@ -1,6 +1,25 @@
 import streamlit as st
 
 st.title("🎈 내가 처음 만든 앱")
-st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
-)
+st.markdown("""
+            # AI 개발자 Kyra
+
+안녕하세요! 저는 AI 개발자 **Kyra**입니다. 최신 기술과 인공지능에 대한 깊은 관심과 열정을 가지고 있으며, 다양한 AI 프로젝트를 개발하고 있습니다. 사람들의 삶을 더 나은 방향으로 변화시키는 AI 솔루션을 만들어 가는 데 집중하고 있습니다.
+
+## 주요 기술
+- **머신러닝**: 데이터 분석, 모델링 및 최적화
+- **딥러닝**: 신경망 모델, 자연어 처리, 컴퓨터 비전
+- **프로그래밍 언어**: Python, TensorFlow, PyTorch, R
+- **AI 솔루션 개발**: 인공지능 모델 설계 및 구현
+- **클라우드 컴퓨팅**: AWS, Google Cloud
+
+## 경험
+- 다양한 기업과 프로젝트에서 AI 기반 시스템을 구축
+- 자연어 처리, 예측 분석, 자동화 시스템 등 여러 분야에서 AI 모델을 개발 및 최적화
+
+## 목표
+인공지능을 활용하여 현실 세계에서 사람들에게 실질적인 가치를 제공하는 솔루션을 만드는 것이 제 목표입니다.
+
+언제든지 AI 개발과 관련된 질문이나 협업에 대해 이야기 나누고 싶습니다!
+
+            """)
